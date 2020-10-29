@@ -1,7 +1,7 @@
 ## InnNotifier
 ---
 ##### 插件截图：
-![image](https://s1.ax1x.com/2020/07/29/aZZr0f.png)
+![image](https://s1.ax1x.com/2020/10/29/BGkWrj.png)
 
 #### typecho通知插件，支持微信、QQ、BearyChat
 
