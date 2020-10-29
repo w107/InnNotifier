@@ -5,8 +5,8 @@
  *
  * @package InnNotifier
  * @author Inn
- * @version 1.0.0
- * @link https://www.gog5.cn
+ * @version 1.1.0
+ * @link https://gog5.cn
  */
 class InnNotifier_Plugin implements Typecho_Plugin_Interface
 {
@@ -15,6 +15,7 @@ class InnNotifier_Plugin implements Typecho_Plugin_Interface
         'ServerChan' => 'Server酱(微信推送)',
         'BearyChat' => 'BearyChat',
         'Qmsg' => 'Qmsg酱(QQ推送)',
+        'IGot' => 'iGot',
     ];
 
     protected static $type_map = [
