@@ -9,6 +9,7 @@
 - Server酱(微信推送)
 - BearyChat
 - Qmsg酱(QQ推送)
+- iGot(多种推送方式 , Bark、邮箱、微信、桌面客户端、utools、 微信小程序、 快捷指令)
 
 ##### 推送类型：
 - 评论通知 
